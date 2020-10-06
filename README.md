@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Ana 👋🏽
+
+- 🌱 I’m currently learning JavaScript, React, and Gatsby. 
+- 📫 How to reach me: [Twitter](https://www.twitter.com/anaveecodes) and [Instagram](https://www.instagram.com/anaveecodes)
+
 
 <!--
 **ana-vela/ana-vela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
