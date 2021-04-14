@@ -5,9 +5,10 @@
  📫 How to reach me: [Twitter](https://www.twitter.com/anaveecodes) and [Instagram](https://www.instagram.com/anaveecodes)
 
  ✏️ Latest blog posts:
-- [3 Components for Successful Blogging](https://dev.to/anaveecodes/3-components-for-successful-blogging-4lfk)
-- [What I Learned from Hacktoberfest 2020](https://dev.to/anaveecodes/what-i-learned-from-hacktoberfest-2020-235j)
-- [Web Accessibility Basics](https://dev.to/anaveecodes/web-accessibility-basics-22o0)
+- [How Checklists Can Help You as a Developer](https://www.anavela.dev/how-checklists-can-help-you-as-a-developer)
+- [The Question to Ask Yourself When Imposter Syndrome Strikes](https://www.anavela.dev/the-question-to-ask-yourself-when-imposter-syndrome-strikes)
+- [5 Ways to Improve Communication on a Remote Team](https://www.anavela.dev/article/5-ways-to-improve-communication-on-a-remote-team)
+- [Sharpening Our Tools](https://www.anavela.dev/article/sharpening-our-tools)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ana-vela&count_private=true">
 
