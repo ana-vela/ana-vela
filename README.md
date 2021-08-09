@@ -5,6 +5,7 @@
  📫 How to reach me: [Twitter](https://www.twitter.com/anaveecodes) and [Instagram](https://www.instagram.com/anaveecodes)
 
  ✏️ Latest blog posts:
+- [How to Get Better with Git](https://www.anavela.dev/how-to-get-better-with-git)
 - [How Checklists Can Help You as a Developer](https://www.anavela.dev/how-checklists-can-help-you-as-a-developer)
 - [The Question to Ask Yourself When Imposter Syndrome Strikes](https://www.anavela.dev/the-question-to-ask-yourself-when-imposter-syndrome-strikes)
 - [5 Ways to Improve Communication on a Remote Team](https://www.anavela.dev/article/5-ways-to-improve-communication-on-a-remote-team)
