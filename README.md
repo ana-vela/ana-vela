@@ -1,6 +1,11 @@
 ### Hi there, I'm Ana 👋🏽
 
- 🌱 I’m currently learning JavaScript, React, and Gatsby. 
+ 🌱 I’m currently learning JavaScript, React, and Gatsby.
+
+ 💡 Frontend Mentor Projects
+
+- [Order Summary Component](https://github.com/ana-vela/order-summary-component)
+- [Stats Preview Card Component](https://github.com/ana-vela/stats-preview-card)
  
  📫 How to reach me: [Twitter](https://www.twitter.com/anaveecodes) and [Instagram](https://www.instagram.com/anaveecodes)
 
